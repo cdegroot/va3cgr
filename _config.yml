@@ -15,11 +15,11 @@ exclude:
 layouts: ./_noita
 
 noita:
-  name: Noita
-  description: Jekyll theme built with Foundation
+  name: VA3CGR.NET
+  description: Ham site by VA3CGR
   author:
-    name: Anatol Broder
-    url: http://penibelst.de/
+    name: Cees de Groot
+    url: http://evrl.com/
   lang: en
   favicons:
     - /assets/2014/04/21/favicon-152.png
@@ -28,13 +28,8 @@ noita:
     right:
       - name: About
         url: /about/
-      - name: Guide
-        url: /guide/
       - name: Blog
         url: /blog/
-      - name: Repository
-        url: https://github.com/penibelst/jekyll-noita
-        class: small button
 
 compress_html:
   clippings: [html, head, title, base, link, meta, style, body, article, section, nav, aside, h1, h2, h3, h4, h5, h6, hgroup, header, footer, address, p, hr, blockquote, ol, ul, li, dl, dt, dd, figure, figcaption, main, div, table, caption, colgroup, col, tbody, thead, tfoot, tr, td, th]
