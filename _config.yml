@@ -22,7 +22,7 @@ noita:
     url: http://evrl.com/
   lang: en
   favicons:
-    - /assets/2014/04/21/favicon-152.png
+    - /assets/img/favicon.ico
   topbar:
     toggle: Menu
     right:
